@@ -4,7 +4,7 @@
 
 // https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
 
-// a5defed1cf222f4f1c8876b6523a88f0
+
 
 
 // let loadCoord = async () => {
